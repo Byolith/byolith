@@ -82,4 +82,8 @@ fabric.properties
 .idea/sonarlint
 
 
+#Custom
+.vscode/
+
+
 # End of https://www.gitignore.io/api/phpstorm
